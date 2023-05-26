@@ -1,4 +1,4 @@
-# woocommerce-ecommerce
+# WooCommerce-eCommerce
 
 
 
